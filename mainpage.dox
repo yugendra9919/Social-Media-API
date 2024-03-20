@@ -1,0 +1,15 @@
+/**
+ * @mainpage Social Media API Documentation (Version 1.0)
+ *
+ * @section intro Introduction:
+ * This is the documentation for Social Media API version 1.0, providing developers with a toolkit for integrating social media functionalities into their applications.
+ *
+ * @section features Key Features:
+ * - User Authentication: Seamless authentication process enabling users to access their social media accounts securely.
+ * - Post Management: Tools for creating, editing, and deleting posts, as well as sharing content across social networks.
+ * - Engagement Features: Functionality for liking, commenting, and sharing posts to encourage user interaction and engagement.
+ *
+ * @section changes Changes in Version 1.0:
+ * - Initial release of the Social Media API, offering essential features for user authentication, post management, and engagement functionalities.
+ * - Future updates will focus on enhancing performance, security, and introducing new features based on user feedback and industry trends.
+ */
